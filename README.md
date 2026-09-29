@@ -25,3 +25,13 @@ them, and borrow or return them through a text menu.
 - `if / else if / else` conditions
 
 ## Project Structure
+library-book-manager-java/
+├── Book.java # Book class (data + display method)
+├── LibraryBookManager.java # Main class with menu and methods
+└── README.md
+
+## How to Run
+
+1. Make sure Java (JDK 17 or later) is installed.
+2. Compile the files:
+3. Run the program:
